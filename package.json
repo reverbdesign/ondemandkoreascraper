@@ -1,0 +1,26 @@
+{
+  "name": "ondemandkoreascraper",
+  "version": "1.0.0",
+  "description": "Scraper for OnDemandKorea",
+  "main": "index.js",
+  "scripts": {
+    "tests": "mocha --recursive tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reverbdesign/ondemandkoreascraper.git"
+  },
+  "author": "Squishy123",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/reverbdesign/ondemandkoreascraper/issues"
+  },
+  "homepage": "https://github.com/reverbdesign/ondemandkoreascraper#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "i": "^0.3.6",
+    "mocha": "^5.2.0",
+    "node-fetch": "^2.1.2",
+    "npm": "^6.0.1"
+  }
+}
