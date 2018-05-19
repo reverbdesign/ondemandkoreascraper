@@ -1,6 +1,6 @@
 {
   "name": "ondemandkoreascraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scraper for OnDemandKorea",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
     "mocha": "^5.2.0",
     "node-fetch": "^2.1.2",
     "npm": "^6.0.1"
-  }
+  },
+  "keywords": ["scraping", "request", "kdrama", "http"]
 }
